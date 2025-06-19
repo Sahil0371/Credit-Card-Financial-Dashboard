@@ -22,8 +22,8 @@
     •	Imported SQL views into Power BI and established relationships.  
     •	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
     •	Developed two main dashboards:  
-        o	Customer Analysis Dashboard  
-        o	Transaction Analysis Dashboard  
+   --o	Customer Analysis Dashboard  
+   --o	Transaction Analysis Dashboard  
     •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
 4.	**Testing & Finalization:**  
     •	Validated insights for accuracy by comparing with raw data.  
@@ -33,7 +33,7 @@
 **TasksKey Insights**  
 1.	Customer Behavior Insights  
     a.	Highest Revenue Groups: Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
-    b.	Top States by Revenue: The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).  
+    b.	Top States by Revenue: The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
     c.	Gender-Based Analysis: Female customers generated slightly more revenue than male customers.  
     d.	Age Group Activity: Customers aged 30–40 and 60+ showed the most financial activity.  
     e.	Income Group Influence: The highest income group had the greatest contribution to overall revenue.  
