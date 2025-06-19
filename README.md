@@ -9,38 +9,38 @@
 •	The goal is to support better decision-making by visualizing trends and highlighting high-value customers.  
 
 **Tasks Completed:** 
-1.	Data Collection & Cleaning (Excel):
-    •	Imported raw credit card usage data in .csv format.
-    •	Removed null values, duplicate records, and corrected column formats.
-    •	Standardized categorical variables (e.g., job titles, education levels).
-2.	**Data Management in SQL:**  
+**1.	Data Collection & Cleaning (Excel):**   
+    •	Imported raw credit card usage data in .csv format.  
+    •	Removed null values, duplicate records, and corrected column formats.  
+    •	Standardized categorical variables (e.g., job titles, education levels).  
+**2.	Data Management in SQL:**  
     •	Created SQL database and structured multiple tables.  
     •	Wrote SQL queries to filter important fields such as customer demographics, transaction amounts, and card types.  
     •	Created views to summarize data and prepare for visualization.  
     •	Joined tables to align customer data with transaction data.  
-3.	**Power BI Dashboard Development:**  
+**3.	Power BI Dashboard Development:**  
     •	Imported SQL views into Power BI and established relationships.  
     •	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
     •	Developed two main dashboards:  
      &emsp;  &emsp;o Customer Analysis Dashboard  
      &emsp;  &emsp;o Transaction Analysis Dashboard  
     •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
-4.	**Testing & Finalization:**  
+**4.	Testing & Finalization:**  
     •	Validated insights for accuracy by comparing with raw data.  
     •	Refined visuals for better user experience and clarity.  
     •	Added titles, tooltips, and data labels to improve interpretability.  
   	
 **TasksKey Insights**  
-1.	Customer Behavior Insights  
+**1.	Customer Behavior Insights**
     **a.	Highest Revenue Groups:** Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
     **b.	Top States by Revenue:** The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
     **c.	Gender-Based Analysis:** Female customers generated slightly more revenue than male customers.  
     **d.	Age Group Activity:** Customers aged 30–40 and 60+ showed the most financial activity.  
     **e.	Income Group Influence:** The highest income group had the greatest contribution to overall revenue.  
-2.	Transaction Pattern Insights  
-    a.	Popular Spending Categories: Major expenditures were observed in Bills, Entertainment, and Fuel.  
-    b.	Transaction Methods Preference: Customers preferred Swipe over Chip and Online payment methods.  
-    c.	Stability in Revenue: Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card usage.
+**2.	Transaction Pattern Insights**  
+    **a.	Popular Spending Categories:** Major expenditures were observed in Bills, Entertainment, and Fuel.  
+    **b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
+    **c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card usage.
   	
 **Conclusion**  
 This project successfully demonstrated the use of Excel, SQL, and Power BI for building a comprehensive credit card financial dashboard. Within a week, meaningful insights were extracted from customer and transaction data, helping identify revenue drivers, user behavior patterns, and spending trends. The interactive dashboard not only enhances data visibility but also empowers decision-makers to make data-driven strategies for growth and customer targeting.
