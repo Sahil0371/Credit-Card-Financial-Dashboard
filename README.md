@@ -22,8 +22,8 @@
     •	Imported SQL views into Power BI and established relationships.  
     •	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
     •	Developed two main dashboards:  
-   --o	Customer Analysis Dashboard  
-   --o	Transaction Analysis Dashboard  
+           o Customer Analysis Dashboard  
+           o Transaction Analysis Dashboard  
     •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
 4.	**Testing & Finalization:**  
     •	Validated insights for accuracy by comparing with raw data.  
