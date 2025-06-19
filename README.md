@@ -4,10 +4,10 @@ power bi dashboard
 
 Objective
 
-•	The main objective of this project is to analyze credit card usage and customer behavior through an interactive Power BI dashboard.
-•	It focuses on identifying key revenue sources, spending patterns, and customer segments based on demographics.
-•	Using Excel, SQL, and Power BI, the project transforms raw data into meaningful business insights.
-•	The goal is to support better decision-making by visualizing trends and highlighting high-value customers.
+•	The main objective of this project is to analyze credit card usage and customer behavior through an interactive Power BI dashboard.  
+•	It focuses on identifying key revenue sources, spending patterns, and customer segments based on demographics.  
+•	Using Excel, SQL, and Power BI, the project transforms raw data into meaningful business insights.  
+•	The goal is to support better decision-making by visualizing trends and highlighting high-value customers.  
 
 Tasks Completed:
 1.	Data Collection & Cleaning (Excel):
