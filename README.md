@@ -1,6 +1,6 @@
-# Credit-Card-Financial-Dashboard
+#*** Credit-Card-Financial-Dashboard***  
 
-## ***power bi dashboard***
+***power bi dashboard***  
 
 ## ***Objective***    
 •	The main objective of this project is to analyze credit card usage and customer behavior through an interactive Power BI dashboard.  
