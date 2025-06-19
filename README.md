@@ -46,8 +46,7 @@
 This project successfully demonstrated the use of Excel, SQL, and Power BI for building a comprehensive credit card financial dashboard. Within a week, meaningful insights were extracted from customer and transaction data, helping identify revenue drivers, user behavior patterns, and spending trends. The interactive dashboard not only enhances data visibility but also empowers decision-makers to make data-driven strategies for growth and customer targeting.
 
 
-  ## Dashboard Image
-  ![Madhav E-Commerce Dashboard](https://github.com/Sahil0371/Madhav_E-Commerce_Dashboard/blob/main/Madhav%20dashboard.png)
-  ![Credit Card Customer Report]()
-  ![Credit Card Transaction Report]()
+  ## ***Dashboard Image***
+  ![Credit Card Customer Report](https://github.com/Sahil0371/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Customer%20Report.jpg)
+  ![Credit Card Transaction Report](https://github.com/Sahil0371/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Transaction%20Report.jpg)
 
