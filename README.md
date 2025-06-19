@@ -10,20 +10,20 @@
 
 **Tasks Completed:**  
 **1.	Data Collection & Cleaning (Excel):**   
-    •	Imported raw credit card usage data in .csv format.  
-    •	Removed null values, duplicate records, and corrected column formats.  
-    •	Standardized categorical variables (e.g., job titles, education levels).  
+    &emsp;•	Imported raw credit card usage data in .csv format.  
+    &emsp;•	Removed null values, duplicate records, and corrected column formats.  
+    &emsp;•	Standardized categorical variables (e.g., job titles, education levels).  
 **2.	Data Management in SQL:**  
-    •	Created SQL database and structured multiple tables.  
-    •	Wrote SQL queries to filter important fields such as customer demographics, transaction amounts, and card types.  
-    •	Created views to summarize data and prepare for visualization.  
-    •	Joined tables to align customer data with transaction data.  
+   &emsp; •	Created SQL database and structured multiple tables.  
+    &emsp;•	Wrote SQL queries to filter important fields such as customer demographics, transaction amounts, and card types.  
+    &emsp;•	Created views to summarize data and prepare for visualization.  
+    &emsp;•	Joined tables to align customer data with transaction data.  
 **3.	Power BI Dashboard Development:**  
-    •	Imported SQL views into Power BI and established relationships.  
-    •	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
-    •	Developed two main dashboards:  
-     &emsp;  &emsp;o Customer Analysis Dashboard  
-     &emsp;  &emsp;o Transaction Analysis Dashboard  
+    &emsp;•	Imported SQL views into Power BI and established relationships.  
+    &emsp;•	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
+   &emsp; •	Developed two main dashboards:  
+     &emsp;  &emsp;&emsp;o Customer Analysis Dashboard  
+     &emsp;  &emsp;&emsp;o Transaction Analysis Dashboard  
     •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
 **4.	Testing & Finalization:**  
     •	Validated insights for accuracy by comparing with raw data.  
