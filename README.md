@@ -8,7 +8,7 @@
 •	Using Excel, SQL, and Power BI, the project transforms raw data into meaningful business insights.  
 •	The goal is to support better decision-making by visualizing trends and highlighting high-value customers.  
 
-**Tasks Completed:** 
+**Tasks Completed:**  
 **1.	Data Collection & Cleaning (Excel):**   
     •	Imported raw credit card usage data in .csv format.  
     •	Removed null values, duplicate records, and corrected column formats.  
@@ -31,13 +31,13 @@
     •	Added titles, tooltips, and data labels to improve interpretability.  
   	
 **TasksKey Insights**  
-**1.	Customer Behavior Insights**
+**1.	Customer Behavior Insights:**
     **a.	Highest Revenue Groups:** Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
     **b.	Top States by Revenue:** The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
     **c.	Gender-Based Analysis:** Female customers generated slightly more revenue than male customers.  
     **d.	Age Group Activity:** Customers aged 30–40 and 60+ showed the most financial activity.  
     **e.	Income Group Influence:** The highest income group had the greatest contribution to overall revenue.  
-**2.	Transaction Pattern Insights**  
+**2.	Transaction Pattern Insights:**    
     **a.	Popular Spending Categories:** Major expenditures were observed in Bills, Entertainment, and Fuel.  
     **b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
     **c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card usage.
