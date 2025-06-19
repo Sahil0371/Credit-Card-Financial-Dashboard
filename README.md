@@ -1,14 +1,14 @@
 # Credit-Card-Financial-Dashboard
 
-***power bi dashboard***
+## ***power bi dashboard***
 
-***Objective***    
+## ***Objective***    
 •	The main objective of this project is to analyze credit card usage and customer behavior through an interactive Power BI dashboard.  
 •	It focuses on identifying key revenue sources, spending patterns, and customer segments based on demographics.  
 •	Using Excel, SQL, and Power BI, the project transforms raw data into meaningful business insights.  
 •	The goal is to support better decision-making by visualizing trends and highlighting high-value customers.  
 
-***Tasks Completed:***     
+## ***Tasks Completed:***     
 **1.	Data Collection & Cleaning (Excel):**   
     &emsp;•	Imported raw credit card usage data in .csv format.  
     &emsp;•	Removed null values, duplicate records, and corrected column formats.  
@@ -30,7 +30,7 @@
     &emsp;•	Refined visuals for better user experience and clarity.  
     &emsp;•	Added titles, tooltips, and data labels to improve interpretability.  
   	
-***TasksKey Insights***    
+## ***TasksKey Insights***    
 **1.	Customer Behavior Insights:**  
 &emsp;**a.	Highest Revenue Groups:** Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
 &emsp;**b.	Top States by Revenue:** The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
@@ -42,6 +42,12 @@
 &emsp;**b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
 &emsp;**c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card &emsp;usage.  
   	
-***Conclusion***    
+## ***Conclusion***    
 This project successfully demonstrated the use of Excel, SQL, and Power BI for building a comprehensive credit card financial dashboard. Within a week, meaningful insights were extracted from customer and transaction data, helping identify revenue drivers, user behavior patterns, and spending trends. The interactive dashboard not only enhances data visibility but also empowers decision-makers to make data-driven strategies for growth and customer targeting.
+
+
+  ## Dashboard Image
+  ![Madhav E-Commerce Dashboard](https://github.com/Sahil0371/Madhav_E-Commerce_Dashboard/blob/main/Madhav%20dashboard.png)
+  ![Credit Card Customer Report]()
+  ![Credit Card Transaction Report]()
 
