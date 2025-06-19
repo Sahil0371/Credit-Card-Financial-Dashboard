@@ -32,15 +32,15 @@
   	
 **TasksKey Insights**  
 **1.	Customer Behavior Insights:**  
-    **a.	Highest Revenue Groups:** Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
-    **b.	Top States by Revenue:** The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
-    **c.	Gender-Based Analysis:** Female customers generated slightly more revenue than male customers.  
-    **d.	Age Group Activity:** Customers aged 30–40 and 60+ showed the most financial activity.  
-    **e.	Income Group Influence:** The highest income group had the greatest contribution to overall revenue.  
+&emsp;**a.	Highest Revenue Groups:** Customers with a graduate degree and self-employed individuals were the top contributors to revenue.  
+&emsp;**b.	Top States by Revenue:** The most financially active states were Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ).    
+&emsp;**c.	Gender-Based Analysis:** Female customers generated slightly more revenue than male customers.  
+&emsp;**d.	Age Group Activity:** Customers aged 30–40 and 60+ showed the most financial activity.  
+&emsp;**e.	Income Group Influence:** The highest income group had the greatest contribution to overall revenue.  
 **2.	Transaction Pattern Insights:**    
-    **a.	Popular Spending Categories:** Major expenditures were observed in Bills, Entertainment, and Fuel.  
-    **b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
-    **c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card usage.
+&emsp;**a.	Popular Spending Categories:** Major expenditures were observed in Bills, Entertainment, and Fuel.  
+&emsp;**b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
+&emsp;**c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card usage.
   	
 **Conclusion**  
 This project successfully demonstrated the use of Excel, SQL, and Power BI for building a comprehensive credit card financial dashboard. Within a week, meaningful insights were extracted from customer and transaction data, helping identify revenue drivers, user behavior patterns, and spending trends. The interactive dashboard not only enhances data visibility but also empowers decision-makers to make data-driven strategies for growth and customer targeting.
