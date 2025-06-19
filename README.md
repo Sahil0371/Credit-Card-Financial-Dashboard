@@ -14,17 +14,17 @@
     &emsp;•	Removed null values, duplicate records, and corrected column formats.  
     &emsp;•	Standardized categorical variables (e.g., job titles, education levels).  
 **2.	Data Management in SQL:**  
-   &emsp; •	Created SQL database and structured multiple tables.  
+    &emsp;•	Created SQL database and structured multiple tables.  
     &emsp;•	Wrote SQL queries to filter important fields such as customer demographics, transaction amounts, and card types.  
     &emsp;•	Created views to summarize data and prepare for visualization.  
     &emsp;•	Joined tables to align customer data with transaction data.  
 **3.	Power BI Dashboard Development:**  
     &emsp;•	Imported SQL views into Power BI and established relationships.  
     &emsp;•	Built a data model with calculated measures using DAX (e.g., total revenue, revenue by category, customer count by segment).  
-   &emsp; •	Developed two main dashboards:  
+    &emsp;•	Developed two main dashboards:  
      &emsp;  &emsp;&emsp;o Customer Analysis Dashboard  
      &emsp;  &emsp;&emsp;o Transaction Analysis Dashboard  
-    •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
+    &emsp;•	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
 **4.	Testing & Finalization:**  
     &emsp;•	Validated insights for accuracy by comparing with raw data.  
     &emsp;•	Refined visuals for better user experience and clarity.  
