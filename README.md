@@ -1,9 +1,8 @@
 # Credit-Card-Financial-Dashboard
 
-power bi dashboard
+**power bi dashboard**
 
-Objective
-
+**Objective**  
 •	The main objective of this project is to analyze credit card usage and customer behavior through an interactive Power BI dashboard.  
 •	It focuses on identifying key revenue sources, spending patterns, and customer segments based on demographics.  
 •	Using Excel, SQL, and Power BI, the project transforms raw data into meaningful business insights.  
