@@ -26,9 +26,9 @@
      &emsp;  &emsp;&emsp;o Transaction Analysis Dashboard  
     •	Applied filters, slicers, and visuals like bar charts, pie charts, and KPIs for interactivity.  
 **4.	Testing & Finalization:**  
-    •	Validated insights for accuracy by comparing with raw data.  
-    •	Refined visuals for better user experience and clarity.  
-    •	Added titles, tooltips, and data labels to improve interpretability.  
+    &emsp;•	Validated insights for accuracy by comparing with raw data.  
+    &emsp;•	Refined visuals for better user experience and clarity.  
+    &emsp;•	Added titles, tooltips, and data labels to improve interpretability.  
   	
 **TasksKey Insights**  
 **1.	Customer Behavior Insights:**  
