@@ -40,7 +40,7 @@
 **2.	Transaction Pattern Insights:**    
 &emsp;**a.	Popular Spending Categories:** Major expenditures were observed in Bills, Entertainment, and Fuel.  
 &emsp;**b.	Transaction Methods Preference:** Customers preferred Swipe over Chip and Online payment methods.  
-&emsp;**c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card &emsp;&emsp;usage.  
+&emsp;**c.	Stability in Revenue:** Both revenue and transaction volume remained relatively stable across all quarters, indicating consistent credit card &emsp;usage.  
   	
 ***Conclusion***    
 This project successfully demonstrated the use of Excel, SQL, and Power BI for building a comprehensive credit card financial dashboard. Within a week, meaningful insights were extracted from customer and transaction data, helping identify revenue drivers, user behavior patterns, and spending trends. The interactive dashboard not only enhances data visibility but also empowers decision-makers to make data-driven strategies for growth and customer targeting.
